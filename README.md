@@ -1,4 +1,4 @@
-#Twitter Radio Bot
+Twitter Radio Bot
 ------------------
 
 Prerequisites 
