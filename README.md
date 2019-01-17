@@ -1,7 +1,7 @@
 Twitter Radio Bot
 ------------------
 
-Prerequisites 
+Prerequisites/Installation
 >> node package 'Twit': 
 install using npm install Twit
   
@@ -10,6 +10,9 @@ install using npm install mysql
    
 >>Twitter API:
 obtained by creating a Twitter Developers application. Once (and if) the application is accepted, the API keys and details can be          obtained from https://developer.twitter.com/apps. The API details are to be input in the config.js file.
+
+>> SQL Table query
+CREATE TABLE music (name TINYTEXT, link CHAR(11), author CHAR(20)); 
 
 Files 
 >> index.php:
