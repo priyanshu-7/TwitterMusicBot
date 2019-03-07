@@ -1,0 +1,24 @@
+{
+  "name": "TwitterRadioBot",
+  "version": "1.0.0",
+  "description": "Twitter Radio Bot\r ------------------",
+  "main": "music.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu-7/TwitterRadioBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshu-7/TwitterRadioBot/issues"
+  },
+  "homepage": "https://github.com/priyanshu-7/TwitterRadioBot#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "twit": "^2.2.11"
+  }
+}
