@@ -5,8 +5,10 @@ Prerequisites/Installation
 >> node package 'Twit': 
 install using npm install Twit
   
->>node package 'MySQL': 
+>> node package 'MySQL': 
 install using npm install mysql
+
+or simply type in "npm install" to install both the dependencies.
    
 >>Twitter API:
 obtained by creating a Twitter Developers application. Once (and if) the application is accepted, the API keys and details can be          obtained from https://developer.twitter.com/apps. The API details are to be input in the config.js file.
